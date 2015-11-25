@@ -1,0 +1,7 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define LIB_PYTHON_NAME ${TARGET_LIB_NAME}
+
+
+#endif CONFIG_H
